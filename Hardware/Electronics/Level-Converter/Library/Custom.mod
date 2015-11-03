@@ -1,0 +1,228 @@
+PCBNEW-LibModule-V1  Thu 08 Jan 2015 11:05:38 AEDT
+# encoding utf-8
+Units mm
+$INDEX
+BG300-05-A-L-A
+DF13-6P-1.25H
+M3_DRILL
+PIN_ARRAY_2MM_4x2
+$EndINDEX
+$MODULE BG300-05-A-L-A
+Po 0 0 0 15 54AC9859 00000000 ~~
+Li BG300-05-A-L-A
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2.54 1 1 0 0.15 N V 21 N "BG300-05-A-L-A"
+T1 0 -5.08 1 1 0 0.15 N I 21 N "SMT"
+DS -6.78 2.95 6.78 2.95 0.15 21
+DS 6.78 2.95 6.78 11.45 0.15 21
+DS 6.78 11.45 -6.78 11.45 0.15 21
+DS -6.78 11.45 -6.78 2.95 0.15 21
+$PAD
+Sh "1" R 1 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.08 0
+$EndPAD
+$PAD
+Sh "2" R 1 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.54 0
+$EndPAD
+$PAD
+Sh "3" R 1 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "4" R 1 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.54 0
+$EndPAD
+$PAD
+Sh "5" R 1 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.08 0
+$EndPAD
+$EndMODULE BG300-05-A-L-A
+$MODULE DF13-6P-1.25H
+Po 0 0 0 15 54AD8F43 00000000 ~~
+Li DF13-6P-1.25H
+Sc 0
+AR 
+Op 0 0 0
+T0 0 2.54 1 1 0 0.15 N V 21 N "DF13-6P-1.25H"
+T1 0 -3.81 1 1 0 0.15 N I 21 N "SMT"
+DS -4.58 -6 4.58 -6 0.15 21
+DS 4.58 -6 4.58 -1 0.15 21
+DS 4.58 -1 -4.58 -1 0.15 21
+DS -4.58 -1 -4.58 -6 0.15 21
+$PAD
+Sh "1" R 0.7 1.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.125 0
+$EndPAD
+$PAD
+Sh "2" R 0.7 1.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.875 0
+$EndPAD
+$PAD
+Sh "3" R 0.7 1.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.625 0
+$EndPAD
+$PAD
+Sh "4" R 0.7 1.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.625 0
+$EndPAD
+$PAD
+Sh "5" R 0.7 1.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.875 0
+$EndPAD
+$PAD
+Sh "6" R 0.7 1.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.125 0
+$EndPAD
+$PAD
+Sh "" C 0.9 0.9 0 0 0
+Dr 0 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 4.2 -1.4
+$EndPAD
+$PAD
+Sh "" C 0.9 0.9 0 0 0
+Dr 0 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -4.2 -1.4
+$EndPAD
+$PAD
+Sh "7" R 1.6 2.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.48 -3.3
+$EndPAD
+$PAD
+Sh "8" R 1.6 2.2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.48 -3.3
+$EndPAD
+$EndMODULE DF13-6P-1.25H
+$MODULE M3_DRILL
+Po 0 0 0 15 54ADC9CF 00000000 ~~
+Li M3_DRILL
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.5 1 1 0 0.15 N V 21 N "M3_DRILL"
+T1 0 3.25 1 1 0 0.15 N I 21 N "MECH"
+$PAD
+Sh "" C 3.3 3.3 0 0 0
+Dr 3.3 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 0 0
+.SolderMask 0.7
+.LocalClearance 0.5
+$EndPAD
+$EndMODULE M3_DRILL
+$MODULE PIN_ARRAY_2MM_4x2
+Po 0 0 0 15 54AC8631 00000000 ~~
+Li PIN_ARRAY_2MM_4x2
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -5 1 1 0 0.15 N V 21 N "PIN_ARRAY_2MM_4x2"
+T1 0 5.5 1 1 0 0.15 N I 21 N "THT"
+DS -2 -4 2 -4 0.15 21
+DS 2 -4 2 4 0.15 21
+DS 2 4 -2 4 0.15 21
+DS -2 4 -2 -4 0.15 21
+$PAD
+Sh "1" R 1.5 1.5 0 0 0
+Dr 0.9 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 -3
+$EndPAD
+$PAD
+Sh "2" C 1.5 1.5 0 0 0
+Dr 0.9 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 -3
+$EndPAD
+$PAD
+Sh "3" C 1.5 1.5 0 0 0
+Dr 0.9 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 -1
+$EndPAD
+$PAD
+Sh "4" C 1.5 1.5 0 0 0
+Dr 0.9 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 -1
+$EndPAD
+$PAD
+Sh "5" C 1.5 1.5 0 0 0
+Dr 0.9 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 1
+$EndPAD
+$PAD
+Sh "6" C 1.5 1.5 0 0 0
+Dr 0.9 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 1
+$EndPAD
+$PAD
+Sh "7" C 1.5 1.5 0 0 0
+Dr 0.9 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 3
+$EndPAD
+$PAD
+Sh "8" C 1.5 1.5 0 0 0
+Dr 0.9 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 3
+$EndPAD
+$EndMODULE PIN_ARRAY_2MM_4x2
+$EndLIBRARY
