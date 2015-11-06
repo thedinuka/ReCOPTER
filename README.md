@@ -1,2 +1,2 @@
 # ReCOPTER
-Source files for the ROSCOPTER paper published in ACRA 2015
+Source files for the ReCOPTER paper published in ACRA 2015
