@@ -1,0 +1,25 @@
+Item,Description,Qty,Approx Unit Price (AUD),Total (AUD),Comments,Where to buy
+,,,,,,
+Frame,,,,,,
+200×300×1.5mm Carbon Fiber sheet,CF sheets for frame plates,3,25.00,75.00,,http://www.ebay.com.au/itm/261498029200
+12MM OD X 10MM ID X 500MM Carbon fiber tube,CF tubes for frame arms,4,9.00,36.00,,"http://www.ebay.com.au/itm/390907531073 (this item includes 4 tubes, So you only need one of these)"
+Quadcopter Motor Mount Holder for 12mm Carbon Fiber Tube,Motor mount,4,5.00,20.00,,http://www.ebay.com.au/itm/271455704404
+Hex M-F Spacers/ Screws/ Nuts/ Standoff Assorted Kit ,,1,8.00,8.00,,http://www.ebay.com.au/itm/271951666962
+,,,,,,
+Thrusters,,,,,,
+LG 18650HG2 3.6V 3000mAh Rechargeable Li-ion Batteries,Li-ion Batteries,12,7.10,85.20,Number of batteries required depends on the flight time requirements. Please consult the paper. Also make sure to brwose FastTech catelogue for there maybe new batteries that are better.,https://www.fasttech.com/products/0/10004182/2535100-authentic-lg-18650hg2-3-6v-3000mah-rechargeable
+Motor (MN2206),BLDC motor (type 1),4,34.00,136.00,Select between MN2206 or MT2208 motors. More details about motors available at T-Motor website,http://www.riseabove.com.au/t-motor-mn2206-13-2000kv
+Motor (MT2208),BLDC motor (type 2),4,73.00,292.00,Select between MN2206 or MT2208 motors. More details about motors available at T-Motor website,http://www.riseabove.com.au/?rf=kw&kw=T-Motor+MT2208-18+1100KV
+T-Motor CF propeller 7x2.4,CF propeller (type 1),2,50.00,100.00,Select between 7x2.4 or 8x2.7 propellers. Each pack comes with 2 propellers. One CW and one CCW.,http://www.riseabove.com.au/products/t-motor-propeller-07-2-4.html
+T-Motor CF propeller 8x2.7,CF propeller (type 2),2,55.00,110.00,Select between 7x2.4 or 8x2.7 propellers. Each pack comes with 2 propellers. One CW and one CCW.,http://www.riseabove.com.au/products/t-motor-propeller-07-2-4.html
+20A ESC with Simonk Firmware (2-4S),Electronic Speed Controllers for Motors,4,18.00,72.00,These ESCs are over provisioned for the motor+prop combinations. You could potentially save a bit on weight and cost by opting for a lower spec ESC.,http://www.riseabove.com.au/dys-sn20a-mini-20a-opto-esc-with-simonk-2-4s
+Quadcopter PDB,power distribution board,1,6.00,6.00,There are plenty of options available for this one. Make sure to look around for something that matches with your battery and motor connectors,
+,,,,,,
+Avionics,,,,,,
+Pixhawk,Autopilot,1,210.00,210.00,,https://store.3drobotics.com/products/3dr-pixhawk
+Telemetry Radio,For sending telemetry data between the GSC and Pixhawk,1,140.00,140.00,Optional but recommended,https://store.3drobotics.com/products/3dr-radio-set
+Odroid U3,On-board companion computer,1,100.00,100.00,"U3 has been discontinued by Hardkernel. The replacement is Odroid-XU4. If you are interfacing the XU4 to the Pixhawk, you may need to redesign the  level-converter board provided in the Github repo.",http://www.hardkernel.com/main/products/prdt_info.php?g_code=G138745696275&tab_idx=1
+Point Grey Firefly FMVU-03MTM-CS,On-board camera ,1,385.00,385.00,"Resoultion: 640x480, Max FPS:60(in continuous trigger mode only), Monochrome, Global shutter, External trigger",https://www.ptgrey.com/firefly-mv-03-mp-mono-usb-20-micron-mt9v022
+Camera GPIO cable,"7 pins, 0.1m GPIO Cable, JST Connector",1,14.00,14.00,Only required if you plan to externally trigger the camera using the level converter board,https://www.ptgrey.com/7-pin-prewired-gpio-jst-connector-3
+"Boowon BW38BLF, 4mm, 1/3"", M12 mount Lens",Lens for Point Grey Firefly,1,14.00,14.00,also available in 6mm and 8mm focal lengths,https://www.ptgrey.com/lenses-m12-micro-lens-4mm
+CS to M12 Microlens Adapter,Lens moount for Point Grey Firefly,1,7.00,7.00,,https://www.ptgrey.com/cs-to-m12-microlens-adaptor-3
